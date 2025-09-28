@@ -9,13 +9,13 @@ This repository contains documentation and research outputs for the Investor–F
 
 ---
 
-## 🧠 Abstract  
+## Abstract  
 
 The Investor–Founder Discovery Platform (IFDP) was developed to address inefficiencies in Pakistan’s startup ecosystem, where founders face difficulty accessing aligned investors and investors lack a transparent, verified channel to discover investable startups. This project aimed to design, build, and evaluate a centralized platform with verification mechanisms and public access. Over 15 months, the project combined iterative prototyping, focus group studies, verification model design, and structured tracking of adoption metrics. The platform successfully onboarded 500+ profiles per category (startups, founders, investors), exceeding targets in two categories, and contributed to policy and ecosystem discussions nationally and internationally.  
 
 ---
 
-## 🚨 Research Problem  
+## Research Problem  
 
 Founders in Pakistan struggle to connect with relevant investors due to fragmented, outdated, or closed networks. Similarly, investors lack a transparent way to discover credible founders or startups.  
 
@@ -23,7 +23,7 @@ Founders in Pakistan struggle to connect with relevant investors due to fragment
 
 ---
 
-## 🎯 Objectives  
+## Objectives  
 
 - Launch a pilot platform with searchable directories for startups, founders, and investors.  
 - Develop and implement a verification model (tick mark for verified, disclaimer for unverified).  
@@ -33,7 +33,7 @@ Founders in Pakistan struggle to connect with relevant investors due to fragment
 
 ---
 
-## 👩‍💻 Role & Contributions  
+## Role & Contributions  
 
 - **Discovery & Research**: Conducted focus groups and interviews with founders and ecosystem stakeholders.  
 - **Platform Execution**: Built pilot version using **Softr**, migrated to **WordPress** after early testing.  
@@ -43,7 +43,7 @@ Founders in Pakistan struggle to connect with relevant investors due to fragment
 
 ---
 
-## 🧭 Timeline Snapshot  
+## Timeline Snapshot  
 
 | **Phase** | **Description** |  
 | --- | --- |  
@@ -54,7 +54,7 @@ Founders in Pakistan struggle to connect with relevant investors due to fragment
 
 ---
 
-## 📊 Findings  
+## Findings  
 
 | **Metric** | **Result** |  
 | --- | --- |  
@@ -66,7 +66,7 @@ Founders in Pakistan struggle to connect with relevant investors due to fragment
 
 ---
 
-## 📐 Verification Design  
+## Verification Design  
 
 ### Directory Structure  
 - **Unverified Listings**: Compiled from i2i databases, public sources, and NIC partnerships.  
@@ -83,7 +83,7 @@ Founders in Pakistan struggle to connect with relevant investors due to fragment
 
 ---
 
-## 📊 Tracking & Evaluation  
+## Tracking & Evaluation  
 
 - Maintained structured monthly targets using Google Sheets.  
 - Analyzed onboarding, verification, and engagement data against goals.  
@@ -91,7 +91,7 @@ Founders in Pakistan struggle to connect with relevant investors due to fragment
 
 ---
 
-## 🔁 Feedback & Iteration  
+## Feedback & Iteration  
 
 ### Discovery Activities  
 - Ran in-person and virtual focus groups with NIC Islamabad and other incubators.  
@@ -105,7 +105,7 @@ Founders in Pakistan struggle to connect with relevant investors due to fragment
 
 ---
 
-## 📣 Dissemination & Outreach  
+## Dissemination & Outreach  
 
 ### Online Launch (Sept 2024)  
 - Platform walkthrough with founders & investors  
@@ -124,7 +124,7 @@ Founders in Pakistan struggle to connect with relevant investors due to fragment
 
 ---
 
-## 🛠 Tools Used  
+## Tools Used  
 
 | **Purpose** | **Tool** |  
 | --- | --- |  
@@ -136,7 +136,7 @@ Founders in Pakistan struggle to connect with relevant investors due to fragment
 
 ---
 
-## 📎 Platform Snapshots  
+## Platform Snapshots  
 
 ![Pilot Version](images/ifdp_v1.png)  
 *Pilot Version (Softr – Ideation)*  
@@ -146,7 +146,7 @@ Founders in Pakistan struggle to connect with relevant investors due to fragment
 
 ---
 
-## 🔗 Live Platform  
+## Live Platform  
 
 👉 [ifdp.invest2innovate.com](https://ifdp.invest2innovate.com/)  
 
